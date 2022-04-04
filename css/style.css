@@ -1,0 +1,13 @@
+@media (min-width:992px) {
+    html.w-mod-js:not(.w-mod-ix) [data-w-id="dd719013-2c99-d9c6-652b-196161c3dc13"] {
+        -webkit-transform: translate3d(101%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+        -moz-transform: translate3d(101%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+        -ms-transform: translate3d(101%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+        transform: translate3d(101%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+        display: block;
+    }
+
+    html.w-mod-js:not(.w-mod-ix) [data-w-id="dd719013-2c99-d9c6-652b-196161c3dc10"] {
+        width: 7em;
+    }
+}
